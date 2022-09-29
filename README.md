@@ -2,4 +2,4 @@
  Esse projeto é um desafio da Digital Innovation One
 
  ## - Exemplo:
-![alt text](/netflix-clone/img/img-projeto.JPG)
+![alt text](/img/img-projeto.JPG)
